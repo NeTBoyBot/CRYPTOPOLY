@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687807710371",
+    "project_id": "cryptopoly-faec9",
+    "storage_bucket": "cryptopoly-faec9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687807710371:android:e40453fbdaec52ee6a6b16",
+        "android_client_info": {
+          "package_name": "com.Cryptogames.CRYPTOPOLY"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWDulu9VasKsPPldp7-6yNdYnp8ItzkgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
