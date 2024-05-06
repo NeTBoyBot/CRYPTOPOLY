@@ -36,11 +36,11 @@ window.addEventListener("load", function () {
   }
 
   var buildUrl = "Build";
-  var loaderUrl = buildUrl + "/CRYPTOPOLY.loader.js";
+  var loaderUrl = buildUrl + "/Test.loader.js";
   var config = {
-    dataUrl: buildUrl + "/CRYPTOPOLY.data",
-    frameworkUrl: buildUrl + "/CRYPTOPOLY.framework.js",
-    codeUrl: buildUrl + "/CRYPTOPOLY.wasm",
+    dataUrl: buildUrl + "/Test.data",
+    frameworkUrl: buildUrl + "/Test.framework.js",
+    codeUrl: buildUrl + "/Test.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "CryptoGames",
     productName: "CRYPTOPOLY",

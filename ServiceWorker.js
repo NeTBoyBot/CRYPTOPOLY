@@ -1,9 +1,9 @@
 const cacheName = "CryptoGames-CRYPTOPOLY-1.0";
 const contentToCache = [
-    "Build/CRYPTOPOLY.loader.js",
-    "Build/CRYPTOPOLY.framework.js",
-    "Build/CRYPTOPOLY.data",
-    "Build/CRYPTOPOLY.wasm",
+    "Build/Test.loader.js",
+    "Build/Test.framework.js",
+    "Build/Test.data",
+    "Build/Test.wasm",
     "TemplateData/style.css"
 
 ];
